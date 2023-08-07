@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="chapter_1" path="chapter_1.html"/>
+   <appContext helpID="what_is_hdmi" path="what_is_hdmi.html"/>
+   <appContext helpID="connect_your_mac_to_the_projector"
+               path="connect_your_mac_to_the_projector.html"/>
+   <appContext helpID="unable_to_connect_mac_with_projector_by_hdmi"
+               path="unable_to_connect_mac_with_projector_by_hdmi.html"/>
+   <appContext helpID="data" path="data.html"/>
+   <appContext helpID="windows" path="windows.html"/>
+   <appContext helpID="maxhub" path="maxhub.html"/>
+   <appContext helpID="how_to_connect_windows_to_maxhub"
+               path="how_to_connect_windows_to_maxhub.html"/>
+</map>
